@@ -10,4 +10,4 @@ const AppHeader = ({toDo, done}) => {
   );
 };
 
-export default AppHeader;
+export default AppHeader

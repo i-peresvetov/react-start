@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'
 
 import AppHeader from '../app-header';
 import SearchPanel from '../search-panel';
